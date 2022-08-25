@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Prashad</h1>
 <h3 align="center">A passionate Student Interested in front end development</h3>
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width=400>
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="center" width=200 height=200>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devprashad&label=Profile%20views&color=0e75b6&style=flat" alt="devprashad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devprashad" alt="devprashad" /></a> </p>
