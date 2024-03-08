@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Prashad</h1>
 <h3 align="center">A passionate Student Interested in front end development</h3>
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devprashad](https://github.com/devprashad)
 
