@@ -1,5 +1,5 @@
 <div align="center">
-  <img style = "height:150;"  src="https://github.com/devprashad/devprashad/assets/110773439/99526da9-34cc-4f5e-a3fb-8b22558101e1"  />
+  <img style = "height:150;width:100;"  src="https://github.com/devprashad/devprashad/assets/110773439/99526da9-34cc-4f5e-a3fb-8b22558101e1"  />
   
 </div>
 
