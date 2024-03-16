@@ -1,6 +1,6 @@
 <div align="center">
-  <img height = 250 , width = 1200  src="https://github.com/devprashad/devprashad/assets/110773439/99526da9-34cc-4f5e-a3fb-8b22558101e1"  />
-  
+<!--   <img height = 250 , width = 1200  src="https://github.com/devprashad/devprashad/assets/110773439/99526da9-34cc-4f5e-a3fb-8b22558101e1"  />
+   -->
 </div>
 
 ###
