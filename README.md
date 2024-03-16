@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMuniir1&psig=AOvVaw0N-pSaLDFEEfM2fpn5sAiU&ust=1710670767624000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi78ajH-IQDFQAAAAAdAAAAABAa"  />
-</div>
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/devprashad/devprashad/assets/110773439/299b7246-ea73-4b52-8539-ec1f0e893725)
+</div>
+
 
 ###
 
