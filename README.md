@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Dev!
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=6c09b95276qvlhg721gznmixuy5bwdm5kfp47fk3a9abk6pc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Coding GIF" width="400">
+  <img src="https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=6c09b95276qvlhg721gznmixuy5bwdm5kfp47fk3a9abk6pc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Coding GIF" width="450">
 </p>
 **Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
 
