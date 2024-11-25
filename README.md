@@ -9,7 +9,7 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 
-With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
+With a deep passion for **Development, Research, Machine-Learning ,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
 
 - 🔭 Currently working on deep-learning projects to reshape industries.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
