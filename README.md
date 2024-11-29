@@ -11,6 +11,6 @@
 
 With a deep passion for **Development & Research in Machine-Learning ,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
 
-- 🔭 Currently working on deep-learning projects to reshape industries.
-- 🌱 Always expanding my knowledge and contributing to open-source communities.
+- 🔭 Currently working on deep-learning projects.
+- 🌱 Always expanding my knowledge and contributing.
 - 🚀 On a mission to push the boundaries of what's possible with code.
