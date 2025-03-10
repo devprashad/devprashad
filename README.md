@@ -9,8 +9,6 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 
-With a deep passion for **Development & Research in Machine-Learning ,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
-
+With a deep passion for **Development & Research in Machine-Learning ,** and **AI-driven technologies**.
 - 🔭 Currently working on deep-learning projects.
 - 🌱 Always expanding my knowledge and contributing.
-- 🚀 On a mission to push the boundaries of what's possible with code.
