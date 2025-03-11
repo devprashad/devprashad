@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Dev!
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fstick-figure-on-computer-gifs&psig=AOvVaw2KphXhDUH325h6gKehrhVC&ust=1741715364878000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCausmJgIwDFQAAAAAdAAAAABAi" alt="Coding GIF" width="450">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="950">
 </p>
 
 
